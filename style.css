@@ -1,0 +1,30 @@
+ body {
+     margin: 0;
+     padding: 0;
+     background: url('./xft-black.jpg') no-repeat;
+     background-size: cover;
+     background-position: center;
+     height: 100vh;
+ }
+
+ .box {
+     width: 450px;
+     background: rgba(0, 0, 0, 0.5);
+     padding: 40px;
+     text-align: center;
+     margin: auto;
+     /* margin-top: 5%; */
+     color: white;
+     font-family: sans-serif;
+ }
+
+ .box-img {
+     border-radius: 50%;
+     width: 200px;
+     height: 200px;
+ }
+
+ .link {
+     text-decoration: none;
+     text-decoration-skip: inherit;
+ }
